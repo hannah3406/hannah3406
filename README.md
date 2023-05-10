@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Web Developer who is constantly exploring the latest technologies to build cutting-edge web applications.\n
+I am a Web Developer who is constantly exploring the latest technologies to build cutting-edge web applications.<br/>
 With a strong foundation in Front-End and Back-End development,\n I am always seeking to improve my skills and create innovative solutions that push the boundaries of what is possible.
 
 안녕하세요. 2년차 웹개발자 김하정입니다.
