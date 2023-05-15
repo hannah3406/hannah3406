@@ -6,17 +6,17 @@ With a strong foundation in Front-End and Back-End development,<br/> I am always
 여유가 있을때마다 쉬지 않고 새로운 기술들에 대한 공부를 진행하였고, <br/> 공부한 지식들을 활용하여 현재 꾸준히 개인 프로젝트(커리어허브)도 진행 중에 있습니다. 🌱 <br/><br/><br/>
 
 [ 개인 프로젝트 ] <br/>
-플랫폼 명 : 커리어허브 (CareerHub) <br/>
-운영 URL : https://careerhub-front.netlify.app/<br/>
-플랫폼 설명 : 구인구직 채용 커뮤니티 플랫폼 (where job seekers and employers connect for new opportunities)<br/>
-참여 인원 : 1명 (개인 단독 진행 중)<br/>
-개발 영역 : 프론트, 백, 서버<br/>
-기술 상세 :<br/>
-    &nbsp&nbsp&nbsp 1) 프론트 : Typescript, Antd, Chakra, React-query, Recoil, Styled Component, ChartJS<br/>
-    &nbsp&nbsp&nbsp 2) 백엔드 : NestJS, puppeteer<br/>
-    &nbsp&nbsp&nbsp 3) DB : Mongo Atlas<br/>
-    &nbsp&nbsp&nbsp 4) 서버 : GCP<br/>
-    &nbsp&nbsp&nbsp 5) 추가 예정 : Kafka, ELK stack<br/><br/>
+___ 플랫폼 명 : 커리어허브 (CareerHub) <br/>
+___ 운영 URL : https://careerhub-front.netlify.app/<br/>
+___ 플랫폼 설명 : 구인구직 채용 커뮤니티 플랫폼 (where job seekers and employers connect for new opportunities)<br/>
+___ 참여 인원 : 1명 (개인 단독 진행 중)<br/>
+___ 개발 영역 : 프론트, 백, 서버<br/>
+___ 기술 상세 :<br/>
+____________ 1) 프론트 : Typescript, Antd, Chakra, React-query, Recoil, Styled Component, ChartJS<br/>
+____________ 2) 백엔드 : NestJS, puppeteer<br/>
+____________ 3) DB : Mongo Atlas<br/>
+____________ 4) 서버 : GCP<br/>
+____________ 5) 추가 예정 : Kafka, ELK stack<br/><br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannah3406&show_icons=true&theme=radical)
 
