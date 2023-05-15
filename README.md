@@ -12,11 +12,11 @@ With a strong foundation in Front-End and Back-End development,<br/> I am always
 참여 인원 : 1명 (개인 단독 진행 중)<br/>
 개발 영역 : 프론트, 백, 서버<br/>
 기술 상세 :<br/>
-     1) 프론트 : Typescript, Antd, Chakra, React-query, Recoil, Styled Component, ChartJS<br/>
-     2) 백엔드 : NestJS, puppeteer<br/>
-     3) DB : Mongo Atlas<br/>
-     4) 서버 : GCP<br/>
-     5) 추가 예정 : Kafka, ELK stack<br/><br/>
+    &nbsp&nbsp&nbsp 1) 프론트 : Typescript, Antd, Chakra, React-query, Recoil, Styled Component, ChartJS<br/>
+    &nbsp&nbsp&nbsp 2) 백엔드 : NestJS, puppeteer<br/>
+    &nbsp&nbsp&nbsp 3) DB : Mongo Atlas<br/>
+    &nbsp&nbsp&nbsp 4) 서버 : GCP<br/>
+    &nbsp&nbsp&nbsp 5) 추가 예정 : Kafka, ELK stack<br/><br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannah3406&show_icons=true&theme=radical)
 
